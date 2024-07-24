@@ -1,7 +1,7 @@
 # DuckpinPin
 An attempt at recreating a regulation Duckpin bowling pin in FreeCAD.
 
-![image](https://github.com/user-attachments/assets/0623c8dd-f4d4-4dee-94dc-633b92aba47a)
+![image](https://github.com/user-attachments/assets/1c9e2dd1-bde4-4e2b-92ed-8d2ba6416c1a)
 
 
 This FreeCAD model of a Duckpin bowling pin is inspired by the general dimensions and characteristics of regulation Duckpin bowling pins as defined by relevant governing bodies such as the National Duckpin Bowling Congress (NDBC). This model is not an official or certified representation of a regulation Duckpin bowling pin.
