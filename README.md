@@ -1,6 +1,8 @@
 # DuckpinPin
 An attempt at recreating a regulation Duckpin bowling pin in FreeCAD.
 
+Designed using FreeCAD 0.21.2, Libs: 0.21.2R33771 (Git)
+
 ![image](https://github.com/user-attachments/assets/1c9e2dd1-bde4-4e2b-92ed-8d2ba6416c1a)
 
 
